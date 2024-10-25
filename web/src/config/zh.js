@@ -315,7 +315,7 @@ export const shortcutKeyList = [
         value: 'Delete | Backspace'
       },
       {
-        icon: 'iconshanchu',
+        icon: 'iconshanchudangqian',
         name: '仅删除当前节点',
         value: 'Shift + Backspace'
       },

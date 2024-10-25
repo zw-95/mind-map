@@ -345,12 +345,12 @@ export const shortcutKeyList = [
         value: `Shift + ${enter}`
       },
       {
-        icon: 'iconhoutui-shi',
+        icon: 'fa fa-reply',
         name: '回退',
         value: `${ctrl} + Z`
       },
       {
-        icon: 'iconqianjin1',
+        icon: 'fa fa-share',
         name: '前进',
         value: `${ctrl} + Y`
       },

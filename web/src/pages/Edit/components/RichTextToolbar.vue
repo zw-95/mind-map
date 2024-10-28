@@ -104,7 +104,7 @@
           :color="fontBackgroundColor"
           @change="changeFontBackgroundColor"
         ></Color>
-        <div class="btn" slot="reference">
+        <div class="btn" slot="reference" :style="{ color: formatInfo.background }">
           <span class="icon iconfont iconbeijingyanse"></span>
         </div>
       </el-popover>

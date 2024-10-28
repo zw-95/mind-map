@@ -7,7 +7,7 @@
     :element-loading-text="loadingText"
     element-loading-spinner="el-icon-loading"
     element-loading-background="rgba(0, 0, 0, 0.8)"
-    :width="isMobile ? '90%' : '50%'"
+    :width="isMobile ? '90%' : '80%'"
     :top="isMobile ? '20px' : '15vh'"
   >
     <div class="exportContainer" :class="{ isDark: isDark }">

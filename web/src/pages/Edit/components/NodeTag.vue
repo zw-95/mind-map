@@ -3,7 +3,7 @@
     class="nodeTagDialog"
     :title="$t('nodeTag.title')"
     :visible.sync="dialogVisible"
-    :width="isMobile ? '90%' : '50%'"
+    :width="isMobile ? '90%' : '80%'"
     :top="isMobile ? '20px' : '15vh'"
   >
     <el-input

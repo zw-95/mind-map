@@ -3,7 +3,7 @@
     class="nodeHyperlinkDialog"
     :title="$t('nodeHyperlink.title')"
     :visible.sync="dialogVisible"
-    :width="isMobile ? '90%' : '50%'"
+    :width="isMobile ? '90%' : '80%'"
     :top="isMobile ? '20px' : '15vh'"
   >
     <div class="item">

@@ -52,7 +52,7 @@
 }
 
 .iconTXT:before {
-  content: ""
+  content: "\f15c"
 }
 
 .iconwenjian1:before {
@@ -133,7 +133,7 @@
 }
 
 .iconxmind:before {
-  content: ""
+  content: "\f1c3"
 }
 
 .iconmouseR:before {
@@ -147,27 +147,27 @@
 }
 
 .iconwenjian:before {
-  content: ""
+  content: "\f15c"
 }
 
 .iconpdf:before {
-  content: ""
+  content: "\f1c1"
 }
 
 .iconPNG:before {
-  content: ""
+  content: "\f1c5"
 }
 
 .iconSVG:before {
-  content: ""
+  content: "\f5cb"
 }
 
 .iconmarkdown:before {
-  content: ""
+  content: "M"
 }
 
 .iconjson:before {
-  content: ""
+  content: "\f7ea"
 }
 
 .iconlianjiexian:before {
@@ -179,7 +179,7 @@
 }
 
 .iconshezhi:before {
-  content: ""
+  content: "\f013"
 }
 
 .iconwushuju:before {

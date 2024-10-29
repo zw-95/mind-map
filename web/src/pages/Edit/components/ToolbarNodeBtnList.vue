@@ -351,6 +351,10 @@ export default {
     }
 
     &.active {
+      .icongeshishua{
+        color: #FFF;
+        background: #409eff !important;
+      }
       .icon {
         background: #f5f5f5;
       }

@@ -57,8 +57,9 @@
             {{ item.name }}
           </div>
         </div>
-        <div class="btn" slot="reference">
-          <span class="icon iconfont iconxingzhuang-wenzi"></span>
+        <div class="btn" slot="reference" :style="{ fontFamily: `${formatInfo.font} !important` }">
+          <!-- <span class="icon iconfont iconxingzhuang-wenzi"></span> -->
+          <span class="icon">字</span>
         </div>
       </el-popover>
     </el-tooltip>
@@ -271,18 +272,18 @@ export default {
     cursor: pointer;
 
     &:hover {
-      background-color: #eefbed;
+      background-color: #ededed;
     }
 
     &.active {
-      color: #12bb37;
+      color: #409eff;
     }
 
     .icon {
       font-size: 20px;
 
       &.fontColor {
-        font-size: 26px;
+        // font-size: 26px;
       }
     }
   }
@@ -313,7 +314,7 @@ export default {
     }
 
     &.active {
-      color: #12bb37;
+      color: #409EFF;
     }
   }
 }

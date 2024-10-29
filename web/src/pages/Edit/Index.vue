@@ -145,6 +145,7 @@ body {
 
     .el-popper[x-placement^='bottom'] .popper__arrow {
       background-color: #36393d;
+      display: none;
     }
 
     .el-popper[x-placement^='bottom'] .popper__arrow::after {
@@ -153,6 +154,7 @@ body {
 
     .el-popper[x-placement^='top'] .popper__arrow {
       background-color: #36393d;
+      display: none;
     }
 
     .el-popper[x-placement^='top'] .popper__arrow::after {

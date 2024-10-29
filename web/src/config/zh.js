@@ -357,7 +357,7 @@ export const shortcutKeyList = [
         value: `${ctrl} + A`
       },
       {
-        icon: 'iconquanxuan',
+        icon: 'iconduoxuan',
         name: '多选',
         value: `右键 / ${ctrl} + 左键`
       },

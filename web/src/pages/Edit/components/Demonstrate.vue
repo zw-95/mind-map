@@ -139,7 +139,7 @@ export default {
 
   .btn {
     cursor: pointer;
-    font-size: 24px;
+    font-size: 18px;
   }
 }
 

@@ -54,6 +54,26 @@ Github：[releases](https://github.com/wanglin2/mind-map/releases)。百度云�
 >
 > 如果你需要以上特性，那么本库可能无法满足你的需求。
 
+# 开发
+```
+
+本地开发
+cd simple-mind-map
+npm i
+npm link
+cd ..
+cd web
+npm i
+npm link simple-mind-map
+npm run serve
+
+
+打包应用
+cd web
+npm run build
+```
+
+
 # 安装
 
 ```bash
